@@ -1,4 +1,5 @@
 #r "XfoDotNet40Ctl65.dll"
+#r "XfoEngine65.dll"
 #r "itextsharp.dll"
 #r "Newtonsoft.Json"
 
